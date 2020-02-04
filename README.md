@@ -5,5 +5,5 @@
     *https://desktop.github.com*  
     2. Ejecutar el programa e iniciar sesion o registrarse en caso de no tener una.  
     3. Seleccionar la opción "clone a repository from the internet..." y elegir la opcion "URL"  
-    4. Pegar el siguiente link y elegir una ubicacion donde se guardaran los archivos del proyecto ("local path") y luego presionar "Clone
-    *https://github.com/geremiasdurand/b_it-Alt-F4-*
+    4. Pegar el siguiente link y elegir una ubicacion donde se guardaran los archivos del proyecto ("local path") y luego presionar "Clone  
+    *https://github.com/geremiasdurand/b_it*
